@@ -1,0 +1,2 @@
+# firstrepo
+ ilk first dosya
